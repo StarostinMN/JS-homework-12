@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/1.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XL",
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/2.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XXXXL",
+        "quantity": 6
+
+    },
+    {
+        "id": 3,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/3.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XL",
+        "quantity": 7
+    },
+    {
+        "id": 4,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/4.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XXXXL",
+        "quantity": 8
+    },
+    {
+        "id": 5,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/5.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XL",
+        "quantity": 9
+    },
+    {
+        "id": 6,
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/6.png",
+        "subtitle": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52,
+        "color": "Black",
+        "size": "XXXXL",
+        "quantity": 10
+    }
+]

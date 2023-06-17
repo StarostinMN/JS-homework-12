@@ -49,6 +49,7 @@ function delFromCart() {
   for (let i = 0; i <= productInCart.length; i++) {
     if (productInCart[i] == event.target.id) {
       productInCart.splice(i, 1);
+      i--;
       console.log(productInCart.length);
       if (productInCart.length == 0) {
         document.querySelector('.cart-items').remove();
@@ -104,8 +105,8 @@ productBox.addEventListener('click', createEl, { once: false});
           }
           if (count == 0) {
             cartItemsEl.insertAdjacentHTML("beforeend", targetProductEl);
-            productInCart.push(id);
           }
+          productInCart.push(id);
           count = 0;
         }
       });
